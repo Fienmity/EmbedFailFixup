@@ -1,12 +1,12 @@
 {
-	"name": "ExamplePlugin",
-	"description": "Example Enmity plugin",
+	"name": "EmbedFailFixup",
+	"description": "Changes media.discordapp.net links to cdn.discordapp.com when sending messages",
 	"authors": [
 		{
-			"name": "Zoey",
-			"id": "89117667050426368"
+			"name": "Fiery",
+			"id": "890228870559698955"
 		}
 	],
 	"version": "1.0.0",
-	"color": "#FFFFFF"
+	"color": "#25B2BC"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "plugin-template",
-  "description": "Enmity plugin template",
+  "name": "embed-fail-fixup",
+  "description": "Changes media.discordapp.net links to cdn.discordapp.com when sending messages",
   "version": "1.0.0",
   "license": "GPL-3.0",
   "author": {
-    "name": "Zoey"
+    "name": "FieryFlames"
   },
   "scripts": {
     "build": "rollup -c --configPlugin esbuild"
